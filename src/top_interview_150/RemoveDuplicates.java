@@ -1,7 +1,5 @@
 package top_interview_150;
 
-import java.util.Queue;
-
 /**
  * Created by cover at 2024/1/3
  */
